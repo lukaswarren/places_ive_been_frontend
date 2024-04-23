@@ -1,0 +1,123 @@
+{
+    "version": "1.0",
+    "resource": "/placesivebeen_photo_upload",
+    "path": "/default/placesivebeen_photo_upload",
+    "httpMethod": "POST",
+    "headers": {
+        "Content-Length": "2754059",
+        "Content-Type": "multipart/form-data; boundary=----WebKitFormBoundarykyKoZaiqvGuFEArd",
+        "Host": "87xukzgsng.execute-api.us-west-2.amazonaws.com",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "X-Amzn-Trace-Id": "Root=1-660debe8-009025815e42617d3e9b70d9",
+        "X-Forwarded-For": "24.117.120.49",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https",
+        "accept": "application/json, text/plain, */*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "origin": "http://localhost:5173",
+        "referer": "http://localhost:5173/",
+        "sec-ch-ua": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site"
+    },
+    "multiValueHeaders": {
+        "Content-Length": [
+            "2754059"
+        ],
+        "Content-Type": [
+            "multipart/form-data; boundary=----WebKitFormBoundarykyKoZaiqvGuFEArd"
+        ],
+        "Host": [
+            "87xukzgsng.execute-api.us-west-2.amazonaws.com"
+        ],
+        "User-Agent": [
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-660debe8-009025815e42617d3e9b70d9"
+        ],
+        "X-Forwarded-For": [
+            "24.117.120.49"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ],
+        "accept": [
+            "application/json, text/plain, */*"
+        ],
+        "accept-encoding": [
+            "gzip, deflate, br, zstd"
+        ],
+        "accept-language": [
+            "en-US,en;q=0.9"
+        ],
+        "origin": [
+            "http://localhost:5173"
+        ],
+        "referer": [
+            "http://localhost:5173/"
+        ],
+        "sec-ch-ua": [
+            "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+        ],
+        "sec-ch-ua-mobile": [
+            "?0"
+        ],
+        "sec-ch-ua-platform": [
+            "\"macOS\""
+        ],
+        "sec-fetch-dest": [
+            "empty"
+        ],
+        "sec-fetch-mode": [
+            "cors"
+        ],
+        "sec-fetch-site": [
+            "cross-site"
+        ]
+    },
+    "queryStringParameters": null,
+    "multiValueQueryStringParameters": null,
+    "requestContext": {
+        "accountId": "211125341523",
+        "apiId": "87xukzgsng",
+        "domainName": "87xukzgsng.execute-api.us-west-2.amazonaws.com",
+        "domainPrefix": "87xukzgsng",
+        "extendedRequestId": "VrHMni1cvHcESNw=",
+        "httpMethod": "POST",
+        "identity": {
+            "accessKey": null,
+            "accountId": null,
+            "caller": null,
+            "cognitoAmr": null,
+            "cognitoAuthenticationProvider": null,
+            "cognitoAuthenticationType": null,
+            "cognitoIdentityId": null,
+            "cognitoIdentityPoolId": null,
+            "principalOrgId": null,
+            "sourceIp": "24.117.120.49",
+            "user": null,
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+            "userArn": null
+        },
+        "path": "/default/placesivebeen_photo_upload",
+        "protocol": "HTTP/1.1",
+        "requestId": "VrHMni1cvHcESNw=",
+        "requestTime": "03/Apr/2024:23:53:14 +0000",
+        "requestTimeEpoch": 1712188394084,
+        "resourceId": "ANY /placesivebeen_photo_upload",
+        "resourcePath": "/placesivebeen_photo_upload",
+        "stage": "default"
+    },
+    "pathParameters": null,
+    "stageVariables": null,
+    "body": "/Y/+AAEEpGSUYAAQIBA
+    "isBase64Encoded": true
+}

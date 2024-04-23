@@ -19,8 +19,8 @@ const markers = ref([
     latLng: [19.43, -99.13], 
     visible: false,
     visits: [
-      { date: '2024-03-01', visitNumber: 1 },
-      { date: '2024-03-15', visitNumber: 2 }
+      { date: '2024-03-01', visitNumber: 1, author: 'Luke', title: 'MexicoCity Trip', content: "Blah", imgIDs: ['key1', 'key2', 'key3']},
+      { date: '2024-03-15', visitNumber: 2, imgIDs: ['keyA', 'keyB', 'keyC'] }
     ]
   },
   { 
