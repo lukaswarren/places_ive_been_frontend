@@ -15,7 +15,7 @@ const navigateToPost = (entry) => {
   const formattedCity = encodeURIComponent(entry.city.toLowerCase().replace(/ /g, '-'));
   const formattedCountry = encodeURIComponent(entry.country.toLowerCase().replace(/ /g, '-'));
   const formattedDate = entry.date;
-  router.push({ name: 'BlogPost', params: { city: formattedCity, country: formattedCountry, date: formattedDate } });
+  router.push({ name: 'PlaceDetails', params: { city: formattedCity, country: formattedCountry, date: formattedDate } });
 };
 
 const viewMore = () => {
