@@ -19,9 +19,9 @@
 
 <script setup>
 import { onMounted } from 'vue';
-import { usePlacesStore } from '@/stores/places'; 
+// import { usePlacesStore } from '@/stores/places'; 
 
-const placesStore = usePlacesStore();
+// const placesStore = usePlacesStore();
 
 // onMounted(() => {
 //   placesStore.loadPlaces();
